@@ -64,7 +64,7 @@ Dan terakhir kamu diminta untuk mengambil screenshoot di halaman utama **Course*
 Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
 - Clonnig repository ini.
-- Buat **branch** baru dengan format `<name> - <id>`. Contoh: aditira-be2022.
+- Buat **branch** baru dengan format `<name> - <id>` (Contoh: aditira-be2022) dan checkout ke branch tersebut.
 - Tambahkan **folder** baru di root repository dengan format `<name> - <id>`.
 - Simpan semua screenshoot yang diminta pada folder tersebut dengan format file name:
 
