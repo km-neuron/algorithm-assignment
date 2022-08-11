@@ -87,12 +87,12 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   ```md
   _Progress Assignment Algorithm_:
-  - [X] Init
-  - [X] Add
-  - [X] Commit
-  - [ ] Commit History
-  - [ ] Diff
-  - [ ] Diff
+  - [X] Course 1
+  - [X] Course 2
+  - [X] Course 3
+  - [ ] Course 4
+  - [ ] Course 5
+  - [ ] Main Course
   ```
 
   - Contoh:
