@@ -97,9 +97,9 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   - Contoh:
 
-    ![PR Example](./assets/)
+    ![PR Example](./assets/sample-pr.png)
 
-  - Contoh PR: click [di sini](https://github.com/km-neutron/se-git-exercise/pull/1)
+  - Contoh PR: klik [di sini](https://github.com/km-neutron/algorithm-assignment/pull/1)
 
   > Note: jika semua course sudah selesai untuk dikerjakan, lakukan **push** dan checklist semua _Progress Assignment Algorithm_ pada description **Pull Request**
 
