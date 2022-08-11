@@ -87,19 +87,19 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   ```md
   _Progress Assignment Algorithm_:
-  - [X] Init
-  - [X] Add
-  - [X] Commit
-  - [ ] Commit History
-  - [ ] Diff
-  - [ ] Diff
+  - [X] Course 1
+  - [X] Course 2
+  - [X] Course 3
+  - [ ] Course 4
+  - [ ] Course 5
+  - [ ] Main Course
   ```
 
   - Contoh:
 
-    ![PR Example](./assets/)
+    ![PR Example](./assets/sample-pr.png)
 
-  - Contoh PR: click [di sini](https://github.com/km-neutron/se-git-exercise/pull/1)
+  - Contoh PR: klik [di sini](https://github.com/km-neutron/algorithm-assignment/pull/1)
 
   > Note: jika semua course sudah selesai untuk dikerjakan, lakukan **push** dan checklist semua _Progress Assignment Algorithm_ pada description **Pull Request**
 
