@@ -103,7 +103,7 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
 ## Output
 
-- Contoh screenshot 5 Course complete yang diminta:
+- Contoh screenshot 3 Course complete yang diminta:
 
   1. Code Monkey Jr
 
@@ -115,7 +115,7 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   3. Space Adventure
 
-     ![Course 4](./yourname-id/course3.png)
+     ![Course 3](./yourname-id/course3.png)
 
 Overall Course
 
