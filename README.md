@@ -53,9 +53,7 @@ Dalam setiap course, kamu diminta untuk melakukan screenshoot dari setiap Card p
 - Course yang wajib dikerjakan adalah _Game course_ dengan judul:
   1. CodeMonkey Jr. (Sequencing & Loops)
   2. Beaver Achiever. (Mini Course)
-  3. Code Adventure Fundamental (Fundamentals)
-  4. Space Adventure (Mini Course)
-  5. Dodo does Math (Mini Course)
+  3. Space Adventure (Mini Course)
 
 Dan terakhir kamu diminta untuk mengambil screenshoot di halaman utama **Course**. Cara melakukan screenshoot kamu wajib menampilkan **Display Name** dari setiap screenshoot dengan format `<name> - <id>`.
 
@@ -70,9 +68,7 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   - `course1.png` untuk CodeMonkey Jr. (Sequencing & Loops)
   - `course2.png` untuk Beaver Achiever. (Mini Course)
-  - `course3.png` untuk Code Adventure Fundamental (Fundamentals)
-  - `course4.png` untuk Space Adventure (Mini Course)
-  - `course5.png` untuk Dodo does Math (Mini Course)
+  - `course3.png` untuk Space Adventure (Mini Course)
   - `main-course.png` untuk Halaman utama course
 
   Sebagai contoh pada folder **yourname-id**
@@ -90,8 +86,6 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
   - [X] Course 1
   - [X] Course 2
   - [X] Course 3
-  - [ ] Course 4
-  - [ ] Course 5
   - [ ] Main Course
   ```
 
@@ -119,17 +113,9 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
      ![Course 2](./yourname-id/course2.png)
 
-  3. Code Adventure Fundamental
+  3. Space Adventure
 
-     ![Course 3](./yourname-id/course3.png)
-
-  4. Space Adventure
-
-     ![Course 4](./yourname-id/course4.png)
-
-  5. Dodo does Math
-
-     ![Course 5](./yourname-id/course5.png)
+     ![Course 4](./yourname-id/course3.png)
 
 Overall Course
 
