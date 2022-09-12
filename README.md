@@ -107,20 +107,20 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   1. Code Monkey Jr
 
-     ![Course 1](./yourname-id/course1.png)
+     ![Course 1](./MuhammadRizqyFariFarhan-BE3019659/course1.png)
 
   2. Beaver Achiever
 
-     ![Course 2](./yourname-id/course2.png)
+     ![Course 2](./MuhammadRizqyFariFarhan-BE3019659/course2.png)
 
   3. Space Adventure
 
-     ![Course 3](./yourname-id/course3.png)
+     ![Course 3](./MuhammadRizqyFariFarhan-BE3019659/course3.png)
 
 Overall Course
 
-![Code Monkey Menu](./yourname-id/main-course.png)
+![Code Monkey Menu](./MuhammadRizqyFariFarhan-BE3019659/main-course.png)
 
 ## Output yang harus disubmit ke LMS
 
-- Link Pull Request (di repository ini, sesuai format)
+- https://github.com/MuhammadRizqyFariFarhan-BE3019659/algorithm-assignment.git
