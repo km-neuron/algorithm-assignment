@@ -83,9 +83,10 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   ```md
   _Progress Assignment Algorithm_:
-  - [X] Course 1
-  - [X] Course 2
-  - [X] Course 3
+
+  - [x] Course 1
+  - [x] Course 2
+  - [x] Course 3
   - [ ] Main Course
   ```
 
@@ -107,19 +108,19 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   1. Code Monkey Jr
 
-     ![Course 1](./yourname-id/course1.png)
+     ![Course 1](./DanielRengga-BE4312160/course1.png)
 
   2. Beaver Achiever
 
-     ![Course 2](./yourname-id/course2.png)
+     ![Course 2](./DanielRengga-BE4312160/course2.png)
 
   3. Space Adventure
 
-     ![Course 3](./yourname-id/course3.png)
+     ![Course 3](./DanielRengga-BE4312160/course3.png)
 
 Overall Course
 
-![Code Monkey Menu](./yourname-id/main-course.png)
+![Code Monkey Menu](./DanielRengga-BE4312160/main-course.png)
 
 ## Output yang harus disubmit ke LMS
 
