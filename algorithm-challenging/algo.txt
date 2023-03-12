@@ -1,0 +1,18 @@
+start
+    declarate plan
+    for day = 1; day<=4 i++
+        if day == 1 then
+            plan to bangkok
+        else if day == 2 then
+            travel to market
+        else if day == 3 then
+            free time or visit local shrine
+        endif
+    endfor
+    return to jakarta
+    if offer 
+        stay on the ship
+    else 
+        debark  to see the nearest town from the port
+    enfif
+end
