@@ -107,19 +107,19 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   1. Code Monkey Jr
 
-     ![Course 1](./yourname-id/course1.png)
+     ![Course 1](./M.%20Mushthofa%20Al-Akhyar-FE5555646/course1.png)
 
   2. Beaver Achiever
 
-     ![Course 2](./yourname-id/course2.png)
+     ![Course 2](./M.%20Mushthofa%20Al-Akhyar-FE5555646/course2.png)
 
   3. Space Adventure
 
-     ![Course 3](./yourname-id/course3.png)
+     ![Course 3](./M.%20Mushthofa%20Al-Akhyar-FE5555646/course3.png)
 
 Overall Course
 
-![Code Monkey Menu](./yourname-id/main-course.png)
+![Code Monkey Menu](./M.%20Mushthofa%20Al-Akhyar-FE5555646/main-course.png)
 
 ## Output yang harus disubmit ke LMS
 
