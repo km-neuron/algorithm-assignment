@@ -1,4 +1,4 @@
-# Algorithm Assignment - Code Monkey
+# Algorithm Assignment - Code Monkey .
 
 [![Trailer Code Monkey](assets/trailer-code-monkey.png)](https://www.youtube.com/watch?v=RqSzdmSUHVo)
 
