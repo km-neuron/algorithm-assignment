@@ -7,7 +7,7 @@
 - Mengerti implementasi algoritma pemrograman melalui aplikasi game code monkey.
   - Sequencing & Loop
   - condition
-  - real code
+  - real codeaaa
 
 ## Pre-requisite
 
