@@ -1,0 +1,35 @@
+[33mcommit 5c30ab72ccd8306b23a3bfc22c7e456444489dea[m[33m ([m[1;36mHEAD -> [m[1;32mAzharFauzan-FE4249027[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 16 16:35:12 2022 +0700
+
+    fix: refer to 3 course
+
+[33mcommit 4876cab79a42d1268f18bf734de3db7733bf2b29[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 16 15:52:27 2022 +0700
+
+    fix: change coures 5 to 3
+
+[33mcommit f18279f0e996042c7ee551083b1c79c2d33296e3[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Aug 11 20:27:12 2022 +0700
+
+    fix: update sample pr
+
+[33mcommit 5440b8c9c6cdd9431749a281a40d7b504394dcb2[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Aug 11 20:24:43 2022 +0700
+
+    fix: update PR description
+
+[33mcommit a564ecbad4cc724f8d8dd377b13404552f0f91a1[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Aug 11 20:17:58 2022 +0700
+
+    fix: checkout on your branch
+
+[33mcommit 6644c79f600c956e321e14454104b720acd38dda[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Aug 11 20:13:28 2022 +0700
+
+    feat: add assignment algorithm - code monkey
