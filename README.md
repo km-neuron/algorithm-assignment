@@ -115,7 +115,7 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
 
   3. Space Adventure
 
-     ![Course 3](./yourname-id/course3.png)
+     ![Course 3](./yourname-id/course3.png) 
 
 Overall Course
 
