@@ -86,7 +86,7 @@ Cara untuk menyimpan screenshootnya adalah sebagai berikut:
   - [X] Course 1
   - [X] Course 2
   - [X] Course 3
-  - [ ] Main Course
+  - [X] Main Course
   ```
 
   - Contoh:
